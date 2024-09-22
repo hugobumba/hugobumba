@@ -12,7 +12,7 @@ Currently, I’m sharpening my skills in the **MERN stack** building personal sm
 
 ### 🌟 Technologies
 
-- **Languages**: Java, PHP, Python, C++, C#, JavaScript
+- **Languages**: Java, PHP, Python, C++, C#, JavaScript, SQL
 - **Frameworks**: Flask, Django, React.js, Vue.js, Node.js, Express.js, .NET
-- **Databases**: SQL, MongoDB
+- **Databases**: MySQL, MongoDB
 - **Frontend**: HTML, CSS, Bootstrap, Tailwind
